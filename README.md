@@ -6,7 +6,7 @@ This code is for detection of Bot net attack in Iot devices. It is based on  [Io
 
 It rerquires Matlab 2018(b) or later
 
-Contact
+**Contact**
 
 m.tabari@gmail.com
 
